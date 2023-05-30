@@ -70,7 +70,7 @@ This project is created with mainly Reactjs , In this project mainly we have thr
 Javascript, HTML, CSS, ReactJS, Redux
 
 ## Project Created With
-- (https://github.com/ehsaanCode)
+- (https://github.com/raj910602/)
 
 ## Deployed app
 https://generateflashcard.netlify.app/
